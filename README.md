@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dEEpZoneD
 - 👀 I’m interested in Software development and ML
 - 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on Daat Science Projects
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 To reach me mail me @ deepakrejath@gmail.com
 
 <!---
