@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dEEpZoneD
 - 👀 I’m interested in Software development and ML
-- 🌱 I’m currently learning DSA and Web Dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail me @ deepakrejath@gmail.com
+- 🌱 I’m currently learning MERN Stack Development
+- 💞️ I’m looking to collaborate on Daat Science Projects
+- 📫 To reach me mail me @ deepakrejath@gmail.com
 
 <!---
 dEEpZoneD/dEEpZoneD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
