@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dEEpZoneD
-- 👀 I’m interested in Software development, Networking and ML
-- 🌱 I’m currently learning MERN Stack and DPDK App Dev
+- 👀 I’m interested in Network development and ML
+- 🌱 I’m currently learning DPDK, VPP, LSQUIC
 - 💞️ I’m looking to collaborate on Data Science/ Networking Projects
 - 📫 To reach me mail me @ dEEpZoneD1729@gmail.com
 
